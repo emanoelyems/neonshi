@@ -38,39 +38,45 @@
             <h1>Menu</h1>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Nigiri</h3>
+                <h4>$20</h4>
+                <p>Nigiri consists of a slice of raw fish that covers a portion of rice molded into a dumpling.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Nigiri</h3>
+                <h4>$25</h4>
+                <p>Nigiri consists of a slice of raw fish that covers a portion of rice molded into a dumpling.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Nigiri</h3>
+                <h4>$30</h4>
+                <p>Nigiri consists of a slice of raw fish that covers a portion of rice molded into a dumpling.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Gunkan maki</h3>
+                <h4>$45</h4>
+                <p>the rice is shaped into a boat and wrapped in a nori sheet. The stuffing, which can be fish, vegetables, or roe, is placed over the rice.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Nigiri</h3>
+                <h4>$35</h4>
+                <p>Nigiri consists of a slice of raw fish that covers a portion of rice molded into a dumpling.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <div class="menu-options">
                 <img src="" alt="">
-                <h3></h3>
-                <p></p>
-                <button class="btn-cart"></button>
+                <h3>Nigiri</h3>
+                <h4>$35</h4>
+                <p>Nigiri consists of a slice of raw fish that covers a portion of rice molded into a dumpling.</p>
+                <button class="btn-cart">+ Cart</button>
             </div>
             <button class="btn-next">Next</button>
         </div>
@@ -85,7 +91,7 @@
     <section id="contact" class="container-contact">
         <h1>Contact</h1>
         <div id="contact-info" class="box">
-            <img src="" alt="">
+            <img src="imgs/Vector-2.svg" alt="Logo Neonshi">
             <h3></h3>
             <h3></h3>
             <h3></h3>
@@ -93,10 +99,10 @@
             <h3></h3>
         </div>
         <div id="icon-socialMedia" class="box">
-            <i></i>
-            <i></i>
-            <i></i>
-            <i></i>
+            <i><img src="imgs/WhatsApp-icon.svg" alt="WhatsApp Icon"></i>
+            <i><img src="imgs/Instagram-icon.svg" alt="Instagram Icon"></i>
+            <i><img src="imgs/Facebook-icon.svg" alt="Facebook Icon"></i>
+            <i><img src="imgs/Twitter-icon.svg" alt="Twitter Icon"></i>
         </div>
         <div id="icon-payment" class="box">
             <i></i>
