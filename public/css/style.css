@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* COLORS */
+
+/* FONT COLORS */
+.f-black{
+    color: #0F0F0F;
+}
+.f-white{
+    color: #EDEDE9;
+}
+.f-orange{
+    color: #C5692F;
+}
+.f-red{
+    color: #B02020;
+}
+
+/* BACKGROUND COLORS */
+.bg-black{
+    color: #0F0F0F;
+}
+.bg-white{
+    color: #EDEDE9;
+}
+.bg-orange{
+    color: #C5692F;
+}
+.bg-red{
+    color: #B02020;
+}
+
+/* FONTS */
+
+.title{
+    font-family: 'Bodoni Moda', serif;
+}
+
+.txt{
+    font-family: 'Mulish', sans-serif;
+}
+
+/* CONTAINER & BOX */
+
+.nav{
+    display: inline-flex;
+    column-count: 3;
+    align-items: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.container-menu{
+    display:inline-flex;
+    column-count: 5;
+    align-items: center;
+}
+
+.conatiner-about{
+    display: flex;
+    column-count: 2;
+}
+
+.container-contact{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+/* HEADER-NAV */
+
+.box-nav{
+    align-items: center;
+    justify-content: center;
+    column-gap: 3rem;
+    margin:0 auto ;
+}
+
+.btn-nav{
+    padding: 1rem;
+    border: 0.5rem solid linear-gradient(rgba(15, 15, 15, 0.3), rgba(15, 15, 15, 0.1));
+    border-radius: 2rem;
+    background: linear-gradient(180deg, rgba(15, 15, 15, 0.30) 0%, rgba(15, 15, 15, 0.10) 100%);
+    backdrop-filter: blur(15px);
+}
+
+.img-logo{
+    width: 8rem;
+    max-width:10rem;
+    height: auto;
+    align-self: flex-start;
+}
+
+.cart-icon{
+    width:6rem;
+    max-width: 8rem;
+    align-self: flex-end;
+}
+
+
+/* HOME */
+
+.hero-image{
+    display: flex;
+    background-image:url(imgs/unsplash_axgXb6_Tz3I.png);
+    column-count: 1;
+}
+
+.box-heroImage{
+    align-self: flex-start;
+    padding: 1rem;
+    text-align: center;
+}
+
+.btn-heroImage{
+    border-radius: 2.5rem;
+    background: linear-gradient(180deg, rgba(15, 15, 15, 0.30) 0%, rgba(15, 15, 15, 0.10) 100%);
+    backdrop-filter: blur(15px);
+}
